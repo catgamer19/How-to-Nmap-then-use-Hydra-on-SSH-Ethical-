@@ -59,6 +59,13 @@ Always log your results and respect ethical boundaries.
 📚 Learn More
 GitHub guide: catgamer19’s How-to-Nmap-then-use-Hydra-on-SSH-Ethical
 
+## 📣 Follow Me
+
+If you're serious about ethical hacking, forensic simulation, or cinematic overlays —  
+**Follow me here on GitHub** to witness the evolution of LAN-only tools built for legacy, realism, and education.
+
+🔗 (https://github.com/Mr-A-Hacker)
+
 Hydra basics: GeeksforGeeks tutorial
 
 Ethical usage: Cyberly’s guide
